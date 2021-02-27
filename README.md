@@ -1,6 +1,11 @@
 # Internet_Eng-HW1
 internet engineering hw1_2
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## Resolving noisy image with  [median-filter](https://en.wikipedia.org/wiki/Median_filter/)
 ## Use the package manager [pip](https://pip.pypa.io/en/stable/) to install opencv-python.
 
