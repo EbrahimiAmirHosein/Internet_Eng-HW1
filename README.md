@@ -7,6 +7,7 @@ internet engineering hw1_2
 ```bash
 pip install opencv-python
 ```
+-->
 [![Contributors][contributors-shield]][contributors-url]
 ## How's the algorithm works!!!
 
